@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background:linear-gradient(#26850c,#ffffff);
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+h1{
+color: white;
+font-family: 'Syne Mono', monospace;  
+}
+
+h4{
+  color: white;
+}
+
+.ariel,.elsa,.alice,.snowwhite {
+  display:none;
+}
+
